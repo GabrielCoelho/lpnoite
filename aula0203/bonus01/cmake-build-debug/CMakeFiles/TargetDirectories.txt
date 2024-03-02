@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpnoite/aula0203/bonus01/cmake-build-debug/CMakeFiles/bonus01.dir
+/Users/marcosmoraes/lpnoite/aula0203/bonus01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpnoite/aula0203/bonus01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
