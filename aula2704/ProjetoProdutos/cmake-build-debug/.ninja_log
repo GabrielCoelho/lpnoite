@@ -1,0 +1,7 @@
+# ninja log v5
+0	187	1714230989695775201	CMakeFiles/ProjetoProdutos.dir/main.c.o	c896a31ebff40ade
+0	187	1714230989696500853	CMakeFiles/ProjetoProdutos.dir/produto.c.o	eecf2684f58db408
+0	31	1714231249181372025	CMakeFiles/ProjetoProdutos.dir/main.c.o	c896a31ebff40ade
+0	5	0	clean	9f9e252bb8b06711
+2	142	1714231332088579299	CMakeFiles/ProjetoProdutos.dir/main.c.o	c896a31ebff40ade
+2	142	1714231332089109413	CMakeFiles/ProjetoProdutos.dir/produto.c.o	eecf2684f58db408
