@@ -6,7 +6,7 @@ typedef struct Produto{
     int qtd_estoque;
 }produto;
 typedef produto *ptr_produto;
-extern ptr_produto vetor[MAX];
+ptr_produto vetor[MAX];
 
 
 
